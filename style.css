@@ -1,0 +1,31 @@
+img {
+    height: auto;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+
+.avo {
+    background-color: #703902;
+    color: greenyellow;
+}
+
+.linked {
+    color: azure;
+}
+
+.pbj {
+    background-color: #925c26;
+    color: purple;
+}
+
+.mac {
+    background-color: #FCCF52;
+    color: blue;
+}
